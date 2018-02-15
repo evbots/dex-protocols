@@ -3,9 +3,9 @@ These are protocols for exchanging a wide variety of cryptographic assets on a b
 
 | Protocol  | Asset(s) | Blockchain(s) | Status | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on mainnet |
-| [Dharma](https://dharma.io/) | ERC20 Tokens, Dharma Debt Token | Ethereum | Under development
-| [Dydx](https://dydx.exchange/) | ERC20 Tokens, Dydx Derivatives (Option, Short Sell) | Ethereum | Under development |
+| [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on mainnet | Generic exchange of ERC20 |
+| [Dharma](https://dharma.io/) | ERC20 Tokens, Dharma Debt Token | Ethereum | Under development | Debt contracts |
+| [Dydx](https://dydx.exchange/) | ERC20 Tokens, Dydx Derivatives (Option, Short Sell) | Ethereum | Under development | Derivatives contracts, uses 0x |
 | [Lendroid](https://lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Margin Loans |
 | [Set](https://setprotocol.com/) | ERC20 Tokens, Set Tokens | Ethereum | Under development | Token abstraction |
 | [Snowglobe](https://auroradao.com/faq/) | ERC20 Tokens | Ethereum | Under development | Shared order book and liquidity |
