@@ -11,3 +11,6 @@ These are protocols for exchanging a wide variety of cryptographic assets on a b
 | [Set](https://setprotocol.com/) | ERC20 Tokens, Set Tokens | Ethereum | Under development | Token abstraction |
 | [Snowglobe](https://auroradao.com/faq/) | ERC20 Tokens | Ethereum | Under development | Shared order book and liquidity |
 | [Swap](https://swap.tech/faq/)  | ERC20 Tokens  | Ethereum | Under development | Closed protocol with plans to be open |
+
+---
+* The OmiseGo whitepaper claims to support generic exchange between any blockchain-based cryptocurrency.
