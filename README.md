@@ -8,6 +8,7 @@ These are protocols for exchanging a wide variety of cryptographic assets on a b
 | [Dharma](https://dharma.io/) | ERC20 Tokens, Dharma Debt Token | Ethereum | Under development | Debt contracts |
 | [Dydx](https://dydx.exchange/) | ERC20 Tokens, Dydx Derivatives (Option, Short Sell) | Ethereum | Under development | Derivatives contracts, uses 0x |
 | [Enigma](https://www.enigma.co/) | All[2] | All[2] | Proposed | The Engima team is working on many projects. A protocol for decentralized exchanged was proposed in one of their papers. |
+| [Kyber Network](https://kyber.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Closed protocol. Kyber is two things: a product for exchanging, and smart contracts used by that exchange. Only Kyber can use the contracts. |
 | [Lendroid](https://lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Margin Loans |
 | [OmiseGo](https://omisego.network/) | All[1] | All[1] | Under development | A blockchain with built-in support for decentralized exchange |
 | [Set](https://setprotocol.com/) | ERC20 Tokens, Set Tokens | Ethereum | Under development | Token abstraction |
