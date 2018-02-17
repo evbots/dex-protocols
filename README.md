@@ -1,5 +1,5 @@
 # Protocols for Decentralized Exchange
-These are protocols for exchanging a wide variety of cryptographic assets on a blockchain. The architecture of these protocols can be quite different from one another. In some cases, protocols are built as smart contracts that anyone can use. In other cases, they are closed protocols, but still implemented as smart contracts that are publicly verifiable. Other protocols have chosen to create their own blockchain in order to build a protocol for exchange.
+This is a list of protocols for peer-to-peer exchange of cryptographic assets without a central entity. The architecture of these protocols can be quite different from one another. In some cases, they are built as smart contracts that anyone can use. In other cases, they are closed, but still implemented as smart contracts that are publicly verifiable. Other projects have chosen to create their own blockchain in order to build a protocol for exchange.
 
 For our purposes, DEX is short for Decentralized Exchange.
 
