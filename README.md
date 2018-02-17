@@ -7,7 +7,8 @@ For our purposes, DEX is short for Decentralized Exchange.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of ERC20 with off-chain relayers. |
 | [Bancor](https://www.bancor.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open protocol. On-chain exchange and pricing. |
-| [Bitshares](https://bitshares.org/) | Bitshares, Bitshares SmartCoins[3] | Bitshares | Live on Bitshares mainnet | Open protocol. Bitshares created a DEX on top of their blockchain. Other DEX's for Bitshares also exist.
+| [Bitshares](https://bitshares.org/) | Bitshares, Bitshares SmartCoins[3] | Bitshares | Live on Bitshares mainnet | Open protocol. Bitshares created a DEX on top of their blockchain. Other DEX's for Bitshares also exist. |
+| [DEAL](https://aphelion.org/wp.html) | NEO Assets[6] | NEO | Under development | Closed protocol[6]. Implemented as smart contracts on the NEO blockchain. |
 | [Dharma](https://dharma.io/) | ERC20 Tokens, Dharma Debt Token | Ethereum | Under development | Open protocol. Debt contracts. |
 | [Dydx](https://dydx.exchange/) | ERC20 Tokens, Dydx Derivatives (Option, Short Sell) | Ethereum | Under development | Open protocol. Derivatives contracts, uses 0x. |
 | [Enigma](https://www.enigma.co/) | All[2] | All[2] | Proposed | The Engima team is working on many projects. A protocol for decentralized exchanged was proposed in one of their papers. |
@@ -31,3 +32,5 @@ For our purposes, DEX is short for Decentralized Exchange.
 [4] https://blog.komodoplatform.com/everything-you-need-to-know-about-atomic-swaps-and-how-komodo-is-advancing-the-technology-cadaec50da7c
 
 [5] Investors send funds to the "fund manager" and then receive a proportional number of the fund's shares in return.
+
+[6] A company called [Aphelion](https://aphelion.org/) is developing this protocol in order to build their own DEX on top of it. I could not determine from the white paper if they are planning to open this protocol up to others or not. It is unclear from the whitepaper just how many assets this protocol will support.
