@@ -1,10 +1,12 @@
 # Protocols for Decentralized Exchange
-These are protocols for exchanging a wide variety of cryptographic assets on a blockchain. All of these protocols implement their feature set via smart contracts.
+These are protocols for exchanging a wide variety of cryptographic assets on a blockchain. The architecture of these protocols can be quite different from one another. In some cases, protocols are built as smart contracts that anyone can use. In other cases, they are closed protocols, but still implemented as smart contracts that are publicly verifiable. Other protocols have chosen to create their own blockchain in order to build a protocol for exchange.
+
+For our purposes, DEX is short for Decentralized Exchange.
 
 | Protocol  | Asset(s) | Blockchain(s) | Status | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Generic exchange of ERC20 |
-| [Bitshares](https://bitshares.org/) | All[3] | Bitshares | Live on Bitshares mainnet | Bitshares is a company that created a dex on top of their blockchain. This is a closed protocol.
+| [Bitshares](https://bitshares.org/) | Bitshares, Bitshares SmartCoins[3] | Bitshares | Live on Bitshares mainnet | Bitshares created a DEX on top of their blockchain. This is an open protocol. Other DEX's for Bitshares also exist.
 | [Dharma](https://dharma.io/) | ERC20 Tokens, Dharma Debt Token | Ethereum | Under development | Debt contracts |
 | [Dydx](https://dydx.exchange/) | ERC20 Tokens, Dydx Derivatives (Option, Short Sell) | Ethereum | Under development | Derivatives contracts, uses 0x |
 | [Enigma](https://www.enigma.co/) | All[2] | All[2] | Proposed | The Engima team is working on many projects. A protocol for decentralized exchanged was proposed in one of their papers. |
@@ -20,4 +22,4 @@ These are protocols for exchanging a wide variety of cryptographic assets on a b
 
 [2] The Enigma Catalyst [white paper](https://www.enigma.co/enigma_catalyst.pdf) proposes an architecture for cross-chain atomic swaps using layer 2 solutions (also known as state channels). As far as I can tell, this is not currently being developed by the Enigma team.
 
-[3] Bitshares claims that you can trade collateralized smartcoins (analogous to Ethereum ERC20 stablecoins). Bitshares claims to hold the collateral for these coins.
+[3] Bitshares claims that you can trade collateralized SmartCoins on the Bitshares blockchain. Bitshares claims to hold the collateral for these SmartCoins.
