@@ -6,6 +6,7 @@ For our purposes, DEX is short for Decentralized Exchange.
 | Protocol  | Asset(s) | Blockchain(s) | Status | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of ERC20 with off-chain relayers. |
+| [AirSwap](https://www.airswap.io/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Closed protocol. Plans to become an open protocol. |
 | [Bancor](https://www.bancor.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open protocol. On-chain exchange and pricing. |
 | [Bitshares](https://bitshares.org/) | Bitshares, Bitshares SmartCoins[3] | Bitshares | Live on Bitshares mainnet | Open protocol. Bitshares created a DEX on top of their blockchain. Other DEX's for Bitshares also exist. |
 | [CDX](https://github.com/YouDex/cdx) | N/A | Ethereum, Youdex Sidechain | Proposed | Not clear from white paper what assets will be supported. |
@@ -25,7 +26,6 @@ For our purposes, DEX is short for Decentralized Exchange.
 | [Set](https://setprotocol.com/) | ERC20 Tokens, Set Tokens | Ethereum | Under development | Open protocol. Token abstraction. |
 | [Snowglobe](https://auroradao.com/faq/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Shared order book and liquidity. |
 | [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) | Stellar Assets | Stellar | Live on Stellar mainnet | Open protocol. The Stellar blockchain scripting language has builtins for decentralized exchange[7].  |
-| [Swap](https://swap.tech/faq/)  | ERC20 Tokens  | Ethereum | Under development | Closed protocol. Plans to become an open protocol. |
 
 ---
 [1] The OmiseGo white paper claims “this high-performant distributed network enforces exchange across as-set classes, from fiat-backed issuers to fully decentralized blockchain tokens (ERC-20 style and native cryptocurrencies).”
