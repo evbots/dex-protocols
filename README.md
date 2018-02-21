@@ -23,6 +23,7 @@ For our purposes, DEX is short for Decentralized Exchange.
 | [Saturn](https://rados.io/saturn-protocol-saturn-dao-updates-for-radex-and-rados/) | ERC20 Tokens, ERC223 Tokens | Ethereum | Under development | Open protocol. The team building this already built a dex called Radex, that uses a closed protocol. Saturn is a generalization of Radex protocol. |
 | [Set](https://setprotocol.com/) | ERC20 Tokens, Set Tokens | Ethereum | Under development | Open protocol. Token abstraction. |
 | [Snowglobe](https://auroradao.com/faq/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Shared order book and liquidity. |
+| [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) | Stellar Assets | Stellar | Live on Stellar mainnet | Open protocol. The Stellar blockchain scripting language has builtins for decentralized exchange[7].  |
 | [Swap](https://swap.tech/faq/)  | ERC20 Tokens  | Ethereum | Under development | Closed protocol. Plans to become an open protocol. |
 
 ---
@@ -37,3 +38,5 @@ For our purposes, DEX is short for Decentralized Exchange.
 [5] Investors send funds to the "fund manager" and then receive a proportional number of the fund's shares in return.
 
 [6] A company called [Aphelion](https://aphelion.org/) is developing this protocol in order to build their own DEX on top of it. I could not determine from the white paper if they are planning to open this protocol up to others or not. It is unclear from the whitepaper just how many assets this protocol will support.
+
+[7] "Manage Offer" is an example of a function native to Stellar's scripting language https://www.stellar.org/developers/guides/concepts/list-of-operations.html#manage-offer
