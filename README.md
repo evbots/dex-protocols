@@ -9,7 +9,7 @@ For our purposes, DEX is short for Decentralized Exchange.
 | [Bancor](https://www.bancor.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open protocol. On-chain exchange and pricing. |
 | [Bitshares](https://bitshares.org/) | Bitshares, Bitshares SmartCoins[3] | Bitshares | Live on Bitshares mainnet | Open protocol. Bitshares created a DEX on top of their blockchain. Other DEX's for Bitshares also exist. |
 | [CDX](https://github.com/YouDex/cdx) | N/A | Ethereum, Youdex Sidechain | Proposed | Not clear from white paper what assets will be supported. |
-| [COMIT](http://www.comit.network/) | Multi assets | Ethereum, Bitcoin  | Proposed | Open protocol. Off-chain
+| [COMIT](http://www.comit.network/) | All[2] | All[2]  | Proposed | Open protocol. Off-chain
 Multi-asset Instant Transaction network. |
 | [Counterparty](https://counterparty.io/) | Bitcoin, Counterparty Tokens | Bitcoin | Live on Bitcoin mainnet | Open protocol. Counterparty extends Bitcoin by adding metadata to Bitcoin transactions. |
 | [DEAL](https://aphelion.org/wp.html) | NEO Assets[6] | NEO | Under development | Closed protocol[6]. Implemented as smart contracts on the NEO blockchain. |
