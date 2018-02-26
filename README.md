@@ -14,6 +14,7 @@ For our purposes, DEX is short for Decentralized Exchange.
 | [Dharma](https://dharma.io/) | ERC20 Tokens, Dharma Debt Token | Ethereum | Under development | Open protocol. Debt contracts. |
 | [Dydx](https://dydx.exchange/) | ERC20 Tokens, Dydx Derivatives (Option, Short Sell) | Ethereum | Under development | Open protocol. Derivatives contracts, uses 0x. |
 | [Enigma](https://www.enigma.co/) | All[2] | All[2] | Proposed | The Engima team is working on many projects. A protocol for decentralized exchanged was proposed in one of their papers. |
+| [Exchange Union](https://www.exchangeunion.com/) | All[9] | All[9] | Under development | Open protocol. Off-chain payment/state channels using cross-chain atomic swaps. Decentralized order propagation. |
 | [Komodo](https://www.komodoplatform.com/) | N/A | Komodo | Under development | Closed protocol. Leverages cross chain atomic swaps[4]. |
 | [Kyber Network](https://kyber.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Closed protocol. Kyber is two things: a product for exchanging, and smart contracts used by that exchange. Only Kyber can use the contracts. |
 | [Lendroid](https://lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Margin Loans. |
@@ -45,3 +46,5 @@ For our purposes, DEX is short for Decentralized Exchange.
 [7] "Manage Offer" is an example of a function native to Stellar's scripting language https://www.stellar.org/developers/guides/concepts/list-of-operations.html#manage-offer
 
 [8] https://ripple.com/build/transactions/#offercreate
+
+[9] [This work-in-progress document](https://github.com/ExchangeUnion/Docs/blob/master/XU-TechnicalPaper.md) outlines the use of payment/state channels with atomic swaps and the decentralized orderbook approach of Exchange Union. All chains with BIP 199 compatible payment channels can be supported directly, others need a HTLC atomic swap implementation via smart contracts or similar.
