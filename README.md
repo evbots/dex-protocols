@@ -7,6 +7,7 @@ For our purposes, DEX is short for Decentralized Exchange.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of ERC20 with off-chain relayers. |
 | [Bancor](https://www.bancor.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open protocol. On-chain exchange and pricing. |
+| [Bisq](https://bisq.network/) | All | Bitcoin | Live | Generic exchange for cryptocurrencies. |
 | [Bitshares](https://bitshares.org/) | Bitshares, Bitshares SmartCoins[3] | Bitshares | Live on Bitshares mainnet | Open protocol. Bitshares created a DEX on top of their blockchain. Other DEX's for Bitshares also exist. |
 | [CDX](https://github.com/YouDex/cdx) | All | Ethereum, Youdex Sidechain | Proposed | Open protocol. Coin direct exchange, cross-chain atomic swap. |
 | [COMIT](http://www.comit.network/) | All[2] | All[2]  | Proposed | Open protocol. Off-chain. Utilizes state channels & 3rd party liquidity providers. |
