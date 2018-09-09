@@ -20,6 +20,7 @@ For our purposes, DEX is short for Decentralized Exchange.
 | [Komodo](https://www.komodoplatform.com/) | N/A | Komodo | Under development | Closed protocol. Leverages cross chain atomic swaps[4]. |
 | [Kyber Network](https://kyber.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Closed protocol. Kyber is two things: a product for exchanging, and smart contracts used by that exchange. Only Kyber can use the contracts. |
 | [Lendroid](https://lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Margin Loans. |
+| [Loopring Protocol](https://www.loopring.org/)  | ERC20 Tokens, NEP5 Tokens | Ethereum, NEO | Live on Ethereum mainnet, NEO testnet | Open protocol. Off-chain ring-mining of two or more orders. |
 | [MARKET Protocol](https://www.marketprotocol.io/) | Derivatives | Ethereum | Under development | Open protocol. Cross Chain and real world assets. |
 | [Melon](https://melonport.com/) | ERC20 Tokens, Melon Fund Shares[5] | Ethereum | Live on Ethereum mainnet | Open protocol. A protocol for creating an investment fund that holds an arbitrary number of underlying ERC20 tokens. |
 | [OmiseGo](https://omisego.network/) | All[1] | All[1] | Under development | Open protocol. A blockchain with built-in support for decentralized exchange. |
