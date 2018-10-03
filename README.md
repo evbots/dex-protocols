@@ -1,7 +1,7 @@
 # Protocols for Decentralized Exchange
 This is a list of protocols for peer-to-peer exchange of cryptographic assets. The architecture of these protocols can be quite different from one another. In some cases, they are built as smart contracts that anyone can use. In other cases, they are closed, but still implemented as smart contracts that are publicly verifiable and auditable. Other projects have chosen to create their own blockchain in order to build a protocol for exchange. The approach to liquidity varies as well. Some protocols, like Bancor, have built-in logic for counterparties to find each other. Other protocols, such as 0x, architected the protocol to allow for off-chain liquidity pools, meaning counterparty discovery happens off-chain.
 
-For our purposes, DEX is short for Decentralized Exchange.
+For our purposes, DEX is short for Decentralized Exchange. See [DEX Terminal](https://dexterminal.com/) to see activity on decentralized exchange protocols.
 
 | Protocol  | Asset(s) | Blockchain(s) | Status | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
