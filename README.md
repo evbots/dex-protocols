@@ -3,16 +3,16 @@ This is a list of protocols for peer-to-peer exchange of cryptographic assets. T
 
 For our purposes, DEX is short for Decentralized Exchange. Visit [DEX Terminal](https://dexterminal.com/) to see activity on decentralized exchange protocols.
 
-| Protocol  | Asset(s) | Blockchain(s) | Status | Notes |
+| Protocol | Asset(s) | Blockchain(s) | Status | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of ERC20 with off-chain relayers. |
+| [0x](https://0x.org/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of ERC20 with off-chain relayers. |
 | [Bancor](https://www.bancor.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open protocol. On-chain exchange and pricing. |
 | [Bisq](https://bisq.network/) | All | Bitcoin | Live | Generic exchange for cryptocurrencies. |
 | [Bitshares](https://bitshares.org/) | Bitshares, Bitshares SmartCoins[3] | Bitshares | Live on Bitshares mainnet | Open protocol. Bitshares created a DEX on top of their blockchain. Other DEX's for Bitshares also exist. |
 | [Blocknet](https://www.blocknet.co/) | Bitcoin based currencies | Blocknet | Live | Open protocol. The Block DX DEX is built on top of the open source Blocknet protocol utilising cross-chain atomic swaps and XRouter. |
 | [CDx](https://cdxproject.com/) | Tokenized (ERC20) credit default swaps | Ethereum | Under development | Open protocol. Built on top of the Dharma protocol. |
 | [CDX](https://github.com/YouDex/cdx) | All | Ethereum, Youdex Sidechain | Proposed | Open protocol. Coin direct exchange, cross-chain atomic swap. |
-| [COMIT](http://www.comit.network/) | All[2] | All[2]  | Proposed | Open protocol. Off-chain. Utilizes state channels & 3rd party liquidity providers. |
+| [COMIT](https://www.comit.network/) | All[2] | All[2] | Proposed | Open protocol. Off-chain. Utilizes state channels & 3rd party liquidity providers. |
 | [Compound](https://compound.finance/) | ERC20 | Ethereum | Live on Ethereum mainnet | Open protocol. Relies on centralized oracles. Partially centralized. Allows deposit and withdrawal from money markets. |
 | [Counterparty](https://counterparty.io/) | Bitcoin, Counterparty Tokens | Bitcoin | Live on Bitcoin mainnet | Open protocol. Counterparty extends Bitcoin by adding metadata to Bitcoin transactions. |
 | [DEAL](https://aphelion.org/wp.html) | NEO Assets[6] | NEO | Under development | Closed protocol[6]. Implemented as smart contracts on the NEO blockchain. |
@@ -23,23 +23,23 @@ For our purposes, DEX is short for Decentralized Exchange. Visit [DEX Terminal](
 | [Exchange Union](https://www.exchangeunion.com/) | All[9] | All[9] | Under development | Open protocol. Off-chain payment/state channels using cross-chain atomic swaps. Decentralized order propagation. |
 | [Komodo](https://www.komodoplatform.com/) | N/A | Komodo | Under development | Closed protocol. Leverages cross chain atomic swaps[4]. |
 | [Kyber Network](https://kyber.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Closed protocol. Kyber is two things: a product for exchanging, and smart contracts used by that exchange. Only Kyber can use the contracts. |
-| [Lendroid](https://lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Margin Loans. |
-| [Loopring Protocol](https://www.loopring.org/)  | ERC20 Tokens, NEP5 Tokens | Ethereum, NEO | Live on Ethereum mainnet, NEO testnet | Open protocol. Off-chain ring-mining of two or more orders. |
+| [Lendroid](https://www.lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Margin Loans. |
+| [Loopring Protocol](https://loopring.org/) | ERC20 Tokens, NEP5 Tokens | Ethereum, NEO | Live on Ethereum mainnet, NEO testnet | Open protocol. Off-chain ring-mining of two or more orders. |
 | [MARKET Protocol](https://www.marketprotocol.io/) | Derivatives | Ethereum | Under development | Open protocol. Cross Chain and real world assets. |
 | [Melon](https://melonport.com/) | ERC20 Tokens, Melon Fund Shares[5] | Ethereum | Live on Ethereum mainnet | Open protocol. A protocol for creating an investment fund that holds an arbitrary number of underlying ERC20 tokens. |
 | [OmiseGo](https://omisego.network/) | All[1] | All[1] | Under development | Open protocol. A blockchain with built-in support for decentralized exchange. |
 | [Raiden Network](https://raiden.network/) | ERC20 Tokens | Ethereum | Under development | Off-chain ERC20 token exchange. Similar to Lightning Network for Bitcoin. |
-| [Republic](https://republicprotocol.com/) | ERC20 Tokens, Ether, Bitcoin | Ethereum, Bitcoin | Under development | Open protocol.  Trustless cross-chain atomic trading of Ether, ERC20 tokens and Bitcoin pairs |
+| [Republic](https://republicprotocol.com/) | ERC20 Tokens, Ether, Bitcoin | Ethereum, Bitcoin | Under development | Open protocol. Trustless cross-chain atomic trading of Ether, ERC20 tokens and Bitcoin pairs |
 | [Ripple](https://ripple.com/) | XRP, Ripple Issued Currencies | Ripple | Live on Ripple mainnet | Open protocol. Ripple has builtin transaction types such as `Offer Create`[8] that allow anyone to trustlessly exchange Ripple based assets. |
 | [Saturn](https://rados.io/saturn-protocol-saturn-dao-updates-for-radex-and-rados/) | ERC20 Tokens, ERC223 Tokens | Ethereum | Under development | Open protocol. The team building this already built a dex called Radex, that uses a closed protocol. Saturn is a generalization of Radex protocol. |
-| [Set](https://setprotocol.com/) | ERC20 Tokens, Set Tokens | Ethereum | Under development | Open protocol. Token abstraction. |
+| [Set](https://www.setprotocol.com/) | ERC20 Tokens, Set Tokens | Ethereum | Under development | Open protocol. Token abstraction. |
 | [Snowglobe](https://auroradao.com/faq/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Shared order book and liquidity. |
-| [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) | Stellar Assets | Stellar | Live on Stellar mainnet | Open protocol. The Stellar blockchain scripting language has builtins for decentralized exchange[7].  |
-| [Swap](https://swap.tech/faq/)  | ERC20 Tokens  | Ethereum | Under development | Closed protocol. Plans to become an open protocol. |
-| [TPL](https://tplprotocol.org/) | TBC | TBC | [Proof of concept](https://tplprotocol.org/pdf/TPL%20-%20Transaction%20Permission%20Layer.pdf) |  |
+| [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) | Stellar Assets | Stellar | Live on Stellar mainnet | Open protocol. The Stellar blockchain scripting language has builtins for decentralized exchange[7]. |
+| [Swap](https://swap.tech/whitepaper/) | ERC20 Tokens | Ethereum | Under development | Closed protocol. Plans to become an open protocol. |
+| [TPL](https://tplprotocol.org/) | TBC | TBC | [Proof of concept](https://tplprotocol.org/pdf/TPL%20-%20Transaction%20Permission%20Layer.pdf) | |
 | [Uniswap](https://uniswap.io/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open Protocol. Trades occur with pooled liquidity. |
 | [WandX](https://www.wandx.co/) | ERC20 Tokens, ERC20 Token Baskets | Ethereum | Under development | Closed protocol. |
-| [Wyvern](https://projectwyvern.com/)  | Nonfungible Ethereum assets  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of nonfungible Ethereum assets with off-chain orderbooks. |
+| [Wyvern](https://wyvernprotocol.com/) | Nonfungible Ethereum assets | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of nonfungible Ethereum assets with off-chain orderbooks. |
 
 ---
 [1] The OmiseGo white paper claims “this high-performant distributed network enforces exchange across as-set classes, from fiat-backed issuers to fully decentralized blockchain tokens (ERC-20 style and native cryptocurrencies).”
@@ -56,6 +56,6 @@ For our purposes, DEX is short for Decentralized Exchange. Visit [DEX Terminal](
 
 [7] "Manage Offer" is an example of a function native to Stellar's scripting language https://www.stellar.org/developers/guides/concepts/list-of-operations.html#manage-offer
 
-[8] https://ripple.com/build/transactions/#offercreate
+[8] https://developers.ripple.com/transaction-formats.html#offercreate
 
 [9] [This work-in-progress document](https://github.com/ExchangeUnion/Docs/blob/master/XU-TechnicalPaper.md) outlines the use of payment/state channels with atomic swaps and the decentralized orderbook approach of Exchange Union. All chains with BIP 199 compatible payment channels can be supported directly, others need a HTLC atomic swap implementation via smart contracts or similar.
