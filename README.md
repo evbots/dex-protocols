@@ -21,7 +21,7 @@ For our purposes, DEX is short for Decentralized Exchange. Visit [DEX Terminal](
 | [Emoon](https://www.emoon.io/) | ERC20, ERC721 | Ethereum | Live | Closed protocol. Primarily catering to the cryptogaming space. |
 | [Enigma](https://www.enigma.co/) | All[2] | All[2] | Proposed | The Engima team is working on many projects. A protocol for decentralized exchanged was proposed in one of their papers. |
 | [Exchange Union](https://www.exchangeunion.com/) | All[9] | All[9] | Under development | Open protocol. Off-chain payment/state channels using cross-chain atomic swaps. Decentralized order propagation. |
-| [Komodo](https://www.komodoplatform.com/) | N/A | Komodo | Under development | Closed protocol. Leverages cross chain atomic swaps[4]. |
+| [Komodo](https://www.komodoplatform.com/) | All [10] | Komodo | Alpha Testing | Open protocol. Leverages SPV cross chain atomic swaps[4][11]. |
 | [Kyber Network](https://kyber.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Closed protocol. Kyber is two things: a product for exchanging, and smart contracts used by that exchange. Only Kyber can use the contracts. |
 | [Lendroid](https://www.lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Margin Loans. |
 | [Loopring Protocol](https://loopring.org/) | ERC20 Tokens, NEP5 Tokens | Ethereum, NEO | Live on Ethereum mainnet, NEO testnet | Open protocol. Off-chain ring-mining of two or more orders. |
@@ -59,3 +59,7 @@ For our purposes, DEX is short for Decentralized Exchange. Visit [DEX Terminal](
 [8] https://developers.ripple.com/transaction-formats.html#offercreate
 
 [9] [This work-in-progress document](https://github.com/ExchangeUnion/Docs/blob/master/XU-TechnicalPaper.md) outlines the use of payment/state channels with atomic swaps and the decentralized orderbook approach of Exchange Union. All chains with BIP 199 compatible payment channels can be supported directly, others need a HTLC atomic swap implementation via smart contracts or similar.
+
+[10] https://docs.komodoplatform.com/barterDEX/list-of-all-coins-tradable.html
+
+[11] https://docs.komodoplatform.com/whitepaper/chapter6.html
