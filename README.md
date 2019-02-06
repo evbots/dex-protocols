@@ -29,7 +29,7 @@ For our purposes, DEX is short for Decentralized Exchange. Visit [DEX Terminal](
 | [Melon](https://melonport.com/) | ERC20 Tokens, Melon Fund Shares[5] | Ethereum | Live on Ethereum mainnet | Open protocol. A protocol for creating an investment fund that holds an arbitrary number of underlying ERC20 tokens. |
 | [OmiseGo](https://omisego.network/) | All[1] | All[1] | Under development | Open protocol. A blockchain with built-in support for decentralized exchange. |
 | [Raiden Network](https://raiden.network/) | ERC20 Tokens | Ethereum | Under development | Off-chain ERC20 token exchange. Similar to Lightning Network for Bitcoin. |
-| [Republic](https://republicprotocol.com/) | ERC20 Tokens, Ether, Bitcoin | Ethereum, Bitcoin | Under development | Open protocol. Trustless cross-chain atomic trading of Ether, ERC20 tokens and Bitcoin pairs |
+| [Ren](https://renproject.io/) | ERC20 Tokens, Ether, Bitcoin | Ethereum, Bitcoin | Under development | Open protocol. Trustless cross-chain atomic trading of Ether, ERC20 tokens and Bitcoin pairs |
 | [Ripple](https://ripple.com/) | XRP, Ripple Issued Currencies | Ripple | Live on Ripple mainnet | Open protocol. Ripple has builtin transaction types such as `Offer Create`[8] that allow anyone to trustlessly exchange Ripple based assets. |
 | [Saturn](https://rados.io/saturn-protocol-saturn-dao-updates-for-radex-and-rados/) | ERC20 Tokens, ERC223 Tokens | Ethereum | Under development | Open protocol. The team building this already built a dex called Radex, that uses a closed protocol. Saturn is a generalization of Radex protocol. |
 | [Set](https://www.setprotocol.com/) | ERC20 Tokens, Set Tokens | Ethereum | Under development | Open protocol. Token abstraction. |
