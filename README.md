@@ -21,6 +21,7 @@ For our purposes, DEX is short for Decentralized Exchange. Visit [DEX Terminal](
 | [Emoon](https://www.emoon.io/) | ERC20, ERC721 | Ethereum | Live | Closed protocol. Primarily catering to the cryptogaming space. |
 | [Enigma](https://www.enigma.co/) | All[2] | All[2] | Proposed | The Engima team is working on many projects. A protocol for decentralized exchanged was proposed in one of their papers. |
 | [Exchange Union](https://www.exchangeunion.com/) | All[9] | All[9] | Under development | Open protocol. Off-chain payment/state channels using cross-chain atomic swaps. Decentralized order propagation. |
+| [Hydro Protocol](https://hydroprotocol.io/) | ERC20 Tokens | Ethereum, TRON | Live | Open protocol. Token exchange with off-chain orders and on-chain settlement, paired through an order matching engine. |
 | [Komodo](https://www.komodoplatform.com/) | All [10] | Komodo | Alpha Testing | Open protocol. Leverages SPV cross chain atomic swaps[4][11]. |
 | [Kyber Network](https://kyber.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Closed protocol. Kyber is two things: a product for exchanging, and smart contracts used by that exchange. Only Kyber can use the contracts. |
 | [Lendroid](https://www.lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Margin Loans. |
